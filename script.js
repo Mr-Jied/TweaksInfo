@@ -35,7 +35,7 @@ const APPS = [
     version:     '3.41',
     compat:      'Windows 10 / 11',
     description: 'Modifica la frecuencia de sondeo (polling rate) de dispositivos USB compatibles. Especialmente útil para ratones y periféricos gaming.',
-    downloadUrl: ''https://github.com/Mr-Jied/pc-optimizer-hub/releases/download/v3.4.1/HWiNFO64.exe'',
+    downloadUrl: ''https://github.com/Mr-Jied/pc-optimizer-hub/releases/download/v1.0.0/HWiNFO64.exe'',
     isOfficial:  false,
     isIntelOnly: false,
     tags:        ['gaming', 'basic'],
